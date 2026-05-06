@@ -18,8 +18,8 @@ Uses **Qwen 2.5 VL** — a Vision-Language Model that reads document images dire
 
 ```bash
 # Clone the repo
-git clone https://github.com/Ismail-w-dev/OCR_API.git
-cd OCR_API
+git clone https://github.com/Ismail-w-dev/beeone-po-extractor.git
+cd beeone-po-extractor
 
 # Create virtual environment
 python3 -m venv .venv
