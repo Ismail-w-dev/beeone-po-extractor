@@ -84,7 +84,7 @@ Works on T4 (Colab free), V100, RTX 3060+, or CPU (slower).
 
 ## License
 
-Proprietary — BeeOne SAS. All rights reserved.
+Proprietary — BeeOne SAAS. All rights reserved.
 
 ## Third-Party Licenses
 
