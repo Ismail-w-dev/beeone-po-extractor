@@ -8,7 +8,7 @@ Uses **Qwen 2.5 VL** — a Vision-Language Model that reads document images dire
 
 ### Option 1: Google Colab (Recommended)
 
-1. Open [`notebooks/beeone_colab_VLM_v8.ipynb`](notebooks/beeone_colab_VLM_v8.ipynb) in Google Colab
+1. Open [`notebooks/beeone_colab_VLM_v8.ipynb`](notebooks/beeone_colab_VLM.ipynb) in Google Colab
 2. Go to **Runtime > Change runtime type > T4 GPU**
 3. Run all cells (**Runtime > Run all**)
 4. Upload your purchase order in the Gradio interface
